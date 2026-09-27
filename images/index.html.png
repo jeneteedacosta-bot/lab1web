@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+    <meta charset="UTF-8">
+    <title>Profil Mahasiswa - Lab1Web</title>
+</head>
+<body>
+
+    <!-- Navigasi Utama -->
+    <nav>
+        <a href="index.html">Beranda</a> | 
+        <a href="halaman2.html">Halaman 2</a> | 
+        <a href="https://www.google.com" target="_blank">Google (Eksternal)</a>
+    </nav>
+    <hr>
+
+    <!-- Judul Utama -->
+    <h1>Profil Mahasiswa</h1>
+
+    <!-- Menampilkan Gambar Profil -->
+    <img src="images/profil.jpg" width="200" alt="Foto profil mahasiswa" title="Foto Profil">
+
+    <!-- Data Diri dan Paragraf -->
+    <h2>Data Diri</h2>
+    <p><b>Nama:</b> Nama Lengkap Kamu</p>
+    <p><b>Program Studi:</b> Teknik Informatika</p>
+    <p>
+        Saya sedang belajar <b>HTML dasar</b> pada mata kuliah <i>Pemrograman Web</i>[cite: 3]. 
+        HTML merupakan <strong>bahasa markup</strong> untuk menyusun struktur halaman web[cite: 3].
+    </p>
+    <p>Contoh pemformatan teks: Air ditulis H<sub>2</sub>O dan rumus luas x<sup>2</sup>[cite: 3].</p>
+
+    <!-- Unordered List -->
+    <h2>Keahlian</h2>
+    <ul>
+        <li>HTML</li>
+        <li>CSS</li>
+        <li>JavaScript</li>
+    </ul>
+
+    <!-- Ordered List -->
+    <h2>Target Belajar</h2>
+    <ol>
+        <li>Menguasai struktur HTML</li>
+        <li>Menguasai CSS</li>
+        <li>Menguasai JavaScript</li>
+    </ol>
+
+</body>
+</html>
