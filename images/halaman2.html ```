@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+    <meta charset="UTF-8">
+    <title>Halaman 2 - Lab1Web</title>
+</head>
+<body>
+
+    <!-- Navigasi Utama -->
+    <nav>
+        <a href="index.html">Beranda</a> | 
+        <a href="halaman2.html">Halaman 2</a>
+    </nav>
+    <hr>
+
+    <h1>Ini Adalah Halaman Kedua</h1>
+    <p>Halaman ini dibuat untuk menguji fungsi navigasi/hyperlink internal dari halaman utama (index.html).</p>
+
+</body>
+</html>
